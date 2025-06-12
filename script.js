@@ -66,6 +66,7 @@ function validarAgendamento() {
 
   alert(`Consulta agendada para ${nome} no dia ${data}.`);
 }
+<<<<<<< HEAD
 
 // pagina inicial
 
@@ -93,3 +94,5 @@ window.addEventListener('resize', () => {
     });
   }
 });
+=======
+>>>>>>> aebd319775907a0640149edd1a7a380334b1a633
